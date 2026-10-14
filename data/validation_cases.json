@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "city": "广州",
+    "date": "tomorrow",
+    "scene": "通勤",
+    "climate": "南方湿热",
+    "expect_keywords": [
+      "透气",
+      "防晒",
+      "速干"
+    ],
+    "expect_temp_logic": "短袖+薄外套，温差应对"
+  },
+  {
+    "id": 2,
+    "city": "哈尔滨",
+    "date": "tomorrow",
+    "scene": "旅游",
+    "climate": "北方干冷",
+    "expect_keywords": [
+      "羽绒",
+      "保暖",
+      "防风"
+    ],
+    "expect_temp_logic": "多层保暖"
+  },
+  {
+    "id": 3,
+    "city": "上海",
+    "date": "tomorrow",
+    "scene": "约会",
+    "climate": "南方湿冷/过渡季",
+    "expect_keywords": [
+      "风衣",
+      "衬衫",
+      "层次"
+    ],
+    "expect_temp_logic": "早晚温差"
+  },
+  {
+    "id": 4,
+    "city": "北京",
+    "date": "tomorrow",
+    "scene": "运动",
+    "climate": "北方干燥",
+    "expect_keywords": [
+      "速干",
+      "透气",
+      "运动"
+    ],
+    "expect_temp_logic": "轻便"
+  },
+  {
+    "id": 5,
+    "city": "三亚",
+    "date": "tomorrow",
+    "scene": "海边",
+    "climate": "热带",
+    "expect_keywords": [
+      "防晒",
+      "透气",
+      "浅色"
+    ],
+    "expect_temp_logic": "清凉"
+  }
+]
