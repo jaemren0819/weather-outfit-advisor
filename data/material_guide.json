@@ -1,0 +1,19 @@
+[
+  {
+    "climate": "南方湿热",
+    "temp_range": "20-30",
+    "strategy": "透气散热 + 防潮 + 防晒",
+    "profiles": [
+      {
+        "gender": "男",
+        "layers": {
+          "inner": {"material": "精梳棉/亚麻混纺", "items": "纯色短袖T恤", "price_range": "50-100元", "brand_options": ["鹿岛", "以纯", "优衣库"]},
+          "bottom": {"material": "聚酯混纺/天丝", "items": "直筒九分休闲裤", "price_range": "100-160元", "brand_options": ["以纯", "优衣库", "TOPTEN10"]},
+          "shoes": {"material": "网面/透气", "items": "极简小白鞋", "price_range": "130-200元", "brand_options": ["迪卡侬", "热风", "骆驼"]}
+        }
+      }
+    ],
+    "bundle_discount": "9折",
+    "pricing_logic": "夏装主打高频换洗，单品定价紧贴国内大众品牌，套装叠加9折。"
+  }
+]
