@@ -6,7 +6,8 @@
 
 ## 📸 界面预览 (UI Preview)
 
-<img width="1037" height="621" alt="屏幕截图 2026-10-22 225957" src="https://github.com/user-attachments/assets/296b5b3f-aa9a-42fc-bdb8-7816d8f5788b" />
+<img width="1037" height="621" alt="ui_screenshot" src="https://github.com/user-attachments/assets/142c4334-7390-4bcf-af3e-c74326bacbc9" />
+
 
 ## ✨ 核心特性 (Features)
 
